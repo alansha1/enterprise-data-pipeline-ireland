@@ -23,3 +23,4 @@ An end-to-end cloud data engineering project designed to extract, transform, loa
 - [ ] Phase 2: Cloud storage landing zone integration (AWS S3 / IAM).
 - [ ] Phase 3: Snowflake warehouse setup and SQL staging models.
 - [ ] Phase 4: Production scheduling via Apache Airflow.
+![Architecture Diagram](arch_ecom_sql.png)
