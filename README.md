@@ -16,7 +16,7 @@ An end-to-end cloud data engineering project designed to extract, transform, loa
 *   `/dbt/` - SQL transformation models and schema documentation
 *   `/airflow/` - DAG configurations for pipeline automation
 *   `/data/` - Git-ignored directory for local debugging raw files
-![Architecture Diagram](arch_ecom_sql.png)
+![Architecture Diagram](arch_pipeline.png)
 ## 🛠️ Current Project Phase
 - [x] Repository initialized & architecture blueprint mapped.
 - [ ] Phase 1: Local Python extraction script from Irish API endpoints.
